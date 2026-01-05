@@ -1,13 +1,13 @@
 # Factor-CAM
-This project includes source code, link to download our combined plant image dataset, and pretrained model
+This project includes source code, link to download our combined plant-image dataset, and pretrained model
 
 Main codes:
-train_factor_regularized.py is to train models, one can edit it for own suit.
-eval_cam_classifier.py and eval_cam_classifier_with_AG.py are differently edited versions of testing models, one can edit them for own suit.
+train_factor_regularized.py is to train models
+eval_cam_classifier.py and eval_cam_classifier_with_AG.py are differently edited versions for testing models
 
 Extras:
 train_all_models.py is to train multiple models automatically.
-and others are functions like loading dataset, extracting heatmap etc.
+and others are functions like loading dataset, extracting heatmaps etc.
 
 Dataset link:
 https://drive.google.com/file/d/1AtWvc1GXPglz1pzcNbztT3O9Z1fqksFe/view?usp=sharing
