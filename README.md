@@ -1,4 +1,3 @@
-# Factor-CAM
 This project includes source code, link to download our combined plant-image dataset, and pretrained model
 
 Main codes:
@@ -15,7 +14,5 @@ https://drive.google.com/file/d/1AtWvc1GXPglz1pzcNbztT3O9Z1fqksFe/view?usp=shari
 Pretrained model link:
 https://drive.google.com/file/d/1zX91R1Z-Xwxldn602-fYYjHDYK0XP9Z0/view?usp=sharing
 
-Paper title: Factor-CAM: Information Fusion of CAM-Guided Counterfactual Factors for Interpretable Plant-Disease Classification
-Author: Ganbayar Batchuluun
 
 
