@@ -1,15 +1,13 @@
-This project includes source code, link to download our combined plant-image dataset, and pretrained model
+This project includes source code, link to pretrained model
 
 Main codes:
 train_factor_regularized.py is to train models
-eval_cam_classifier.py and eval_cam_classifier_with_AG.py are differently edited versions for testing models
+eval_cam_classifier.py for testing models
 
 Extras:
 train_all_models.py is to train multiple models automatically.
 and others are functions like loading dataset, extracting heatmaps etc.
 
-Dataset link:
-https://drive.google.com/file/d/1AtWvc1GXPglz1pzcNbztT3O9Z1fqksFe/view?usp=sharing
 
 Pretrained model link:
 https://drive.google.com/file/d/1zX91R1Z-Xwxldn602-fYYjHDYK0XP9Z0/view?usp=sharing
